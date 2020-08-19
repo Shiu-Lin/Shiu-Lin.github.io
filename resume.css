@@ -563,6 +563,13 @@ h4 {
                 padding-top: 0px;
                 padding-right: 10px;
               }
+        .waya-text {
+                display: inline-block;
+                margin-left: 10px;
+                 float: none;
+                /* padding-top: 35px; */
+                padding-right: 8%;
+            }
       }
       @media only screen and (max-width: 870px) {
         .upper-quarter {

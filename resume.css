@@ -75,12 +75,12 @@ h4 {
 
 .me {
   display: inline-block;
-  width: 350px;
+  width: 500px;/*350*/
 }
 
 .logo {
-  width: 55px;
-  height: 55px;
+  width: 22%;
+  height: 22%;
   display: inline-block;
 }
 

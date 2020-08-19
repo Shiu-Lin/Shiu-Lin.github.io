@@ -360,8 +360,8 @@ h4 {
   width: 65%;
   display: inline-block;
   float: right;
-  padding-top: 25px;
-  padding-right: 55px;
+  padding-top: 10px;
+  padding-right: 45px;
 }
 
 .skills {
@@ -514,18 +514,19 @@ h4 {
       margin: 5%;
     }
     .skill-lists {
-      margin-top: 22px;
+      margin-top: 0px;
       width: 100%;
     }
     .left {
-      margin-left: 0px;
+      margin-left: -9%;
       display: inline-block;
-      background-color: #f2f2f2;
+      /*background-color: #f2f2f2;*/
       margin-bottom: -5%;
       width: 100%;
     }
     .right {
-      margin-left: 0px;
+      /*margin-left: 0px;*/
+      margin-left: -9%;
       display: inline-block;
       width: 100%;
       margin-bottom: 1.5%;

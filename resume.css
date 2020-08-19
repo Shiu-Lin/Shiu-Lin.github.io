@@ -582,6 +582,13 @@ h4 {
           background-size: 150%;
           height: 390px;
         }
+        .waya-text {
+                display: inline-block;
+                margin-left: 10px;
+                 float: none;
+                /* padding-top: 35px; */
+                padding-right: 8%;
+            }
       }
       @media only screen and (max-width: 580px) {
         .upper-quarter {

@@ -386,19 +386,26 @@ h4 {
 }
 
 .skill-lists {
-  margin-top: 15px;
-  width: 100%;
+  /*margin-top: 5px;*/
+  position: relative;
+  margin: auto;
+  left: 0;
+  right: 0;
+  max-width: 90%;
+  /*width: 90%;*/
 }
 
 .left {
-  margin-left: 23px;
+  margin-left: 3%;
   display: inline-block;
-  background-color: #f2f2f2;
+  /*background-color: #f2f2f2;*/
   margin-bottom: 25px;
+  position: center;
 }
 
 .right {
-  margin-left: 20px;
+
+  /*margin-right: 6%;*/
   display: inline-block;
 }
 

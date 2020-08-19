@@ -555,7 +555,7 @@ h4 {
       .fpgc {
         width: 75%;
       }
-      @media  only screen and (max-width: 375px){
+      @media  only screen and (max-width: 400px){
         .info {
                 width: 65%;
                 display: inline-block;

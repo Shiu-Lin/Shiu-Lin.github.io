@@ -21,10 +21,16 @@ body{
   padding: 0.7em 0;
 }
 
+.wrap{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
 .container{
   padding: 1em 0;
-  float: right;
-  width: 50%;
+  /*float: right;*/
+  /*width: 50%;*/
 }
 @media screen and (max-width: 640px){
   .container{
@@ -36,7 +42,7 @@ body{
 @media screen and (min-width: 900px){
   .container{
     width: 33.33333%;
-    height: 600px;
+    /*height: 600px;*/
   }
 }
 
